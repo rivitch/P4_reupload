@@ -15,4 +15,3 @@ else:
 print(list_1[c-1]+list_1[c]+q)
 # print(list_1)
 # print(list_1[c-1],list_1[c] ,q,(list_1[c-1]+list_1[c]+q))
-
