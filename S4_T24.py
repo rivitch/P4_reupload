@@ -18,6 +18,6 @@ if c+1 == len(list_1):
 else:
     q = list_1[c+1]
 print(list_1[c-1]+list_1[c]+q)
-# Проверка
+# Проверка rjkbxtcndf zuujl yf recnf[]
 # print(list_1)
 # print(list_1[c-1],list_1[c] ,q,(list_1[c-1]+list_1[c]+q))
